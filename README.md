@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Backend Developer based in Spain. 
+I'm a Backend Developer based in Germany. 
 
 - 🔭 I'm currently learning React.js and Kotlin
 - 💬 Ask me about anything
