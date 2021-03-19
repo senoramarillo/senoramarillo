@@ -61,7 +61,6 @@ I'm a Backend Developer based in Germany.
 [<img align="left" alt="SenorAmarillo's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL26673217M-S.jpg" />](http://openlibrary.org/olid/OL26673217M)
 
 [<img align="left" alt="SenorAmarillo's GitHub Stats" src="https://covers.openlibrary.org/b/olid/OL17703091M-S.jpg" />](http://openlibrary.org/olid/OL17703091M)
-
 </details>
 
 <!--
