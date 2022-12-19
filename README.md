@@ -41,7 +41,7 @@ I'm a Backend Developer based in Germany.
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats 📊</summary>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=senoramarillo&show_icons=true" alt="SenorAmarillo's GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=senoramarillo&" alt="senoramarillo" />
