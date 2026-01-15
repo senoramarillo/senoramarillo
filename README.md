@@ -52,7 +52,6 @@ I'm a Backend Developer based in Germany.
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=senoramarillo&layout=compact" alt="senoramarillo_stats" />
 </details>
 
-
 <!--
 <details>
   <summary>:book: Reading List</summary>
