@@ -2,7 +2,7 @@
 
 I'm a Backend Developer based in Germany. 
 
-- 🔭 I'm currently learning Flutter, React.js, Fast API and Kotlin
+- 🔭 I'm currently learning React.js, AWS and Spring Security
 - 💬 Ask me about anything
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
